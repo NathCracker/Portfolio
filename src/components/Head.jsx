@@ -5,7 +5,7 @@ import {BsFacebook} from 'react-icons/bs'
 const Head = () => {
   return (  
     <>
-    <div>
+    <div id='home'>
         <div className='max-w-[1640px] mx-auto flex justify-center gap-16 p-3'>
             <div className='text-center mt-10'>
                 <img src={myAvatar} alt="" className='bg-gradient-to-b from-gray-500 rounded-full max-h-60 my-10' />
