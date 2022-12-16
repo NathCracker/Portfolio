@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contacts = () => {
   return (
-    <div className='flex justify-around items-center max-w-[1640px] min-h-[500px]' id='contacts'>
+    <div className='flex justify-around items-center max-w-[1640px] min-h-[500px] max-sm:flex-col max-md:flex-col' id='contacts'>
         <div className='text-center'>
             <h1 className='text-4xl'>Contact Me!</h1>
         </div>
