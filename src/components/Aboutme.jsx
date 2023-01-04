@@ -3,7 +3,7 @@ import React from 'react'
 const Aboutme = () => {
   return (
     <div>
-        <div className='max-w-[1640px] flex justify-center items-start gap-16 p-3 mx-auto max-sm:flex-col max-md:flex-col'>
+        <div className='max-w-[1640px] flex justify-center items-start gap-16 p-3 mx-auto'>
             <h1 className='text-center text-3xl'>
                 ABOUT ME
             </h1>
